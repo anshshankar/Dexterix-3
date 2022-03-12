@@ -1,0 +1,29 @@
+.cursor-pointer {
+  /* border: 2px solid #758283; */
+  /* border-radius: 1px; */
+}
+
+* {
+  border-radius: 10px;
+  margin: 5px 1px;
+}
+
+.whocares {
+  display: flex;
+  /* justify-content: center; */
+  justify-content: space-between;
+  /* text-align: center; */
+}
+
+.thisis {
+  width: 4em;
+  height: 4em;
+  margin-right: 2em;
+}
+
+.yofooter {
+}
+
+/* hidden md:block mt-1 mb-3">
+                    <ul class="flex justify-evenly text-l">
+                        <li class=" cursor-pointer */
